@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /D:\workspaceSorin\eXml\samples\dita\flowers\temp\xhtml-zendesk\topics?><?workdir-uri file:/D:/workspaceSorin/eXml/samples/dita/flowers/temp/xhtml-zendesk/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="care" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="topic:1;3:18" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="title:1;4:12">Care and Preparation</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="shortdesc:1;5:16">When caring for your flower garden you want to feed your plants properly, control
+        pests and weeds.</shortdesc>
+    <body class="- topic/body " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="body:1;7:11">
+        <p class="- topic/p " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="p:1;8:12">When caring for your flower garden you want to feed your plants properly, control pests
+            and weeds. Good soil is a must to successful gardening, landscaping, and healthy
+            flowers. You have to
+            <indexterm class="- topic/indexterm " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="indexterm:1;11:24">tasks<indexterm class="- topic/indexterm " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="indexterm:2;11:40">preparation</indexterm></indexterm>balance the soil structure
+            with nutrients and regulate the pH to cover your plants'
+            needs.<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="We must include information about fertilizers impact to the environment." mid="1"?>
+            And above all, remember that many flower gardens fail because they just don't get enough
+            of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
+        <p class="- topic/p " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="p:2;16:12">
+            <table frame="none" class="- topic/table " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="table:1;17:33">
+                <title class="- topic/title " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="title:2;18:24">Flowers</title>
+                <tgroup cols="3" class="- topic/tgroup " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="tgroup:1;19:34">
+                    <colspec colname="col1" colnum="1" colwidth="171pt" class="- topic/colspec " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="colspec:1;20:72"/>
+                    <colspec colname="col2" colnum="2" colwidth="99pt" class="- topic/colspec " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="colspec:2;21:71"/>
+                    <colspec colname="col3" colnum="3" colwidth="150pt" class="- topic/colspec " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="colspec:3;22:77"/>
+                    <thead class="- topic/thead " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="thead:1;23:28">
+                        <row class="- topic/row " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="row:1;24:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:1;25:36" colname="col1" dita-ot:x="1" dita-ot:y="1">Flower</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:2;26:36" colname="col2" dita-ot:x="2" dita-ot:y="1">Type</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:3;27:36" colname="col3" dita-ot:x="3" dita-ot:y="1">Soil</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="tbody:1;30:28">
+                        <row class="- topic/row " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="row:2;31:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:4;32:36" colname="col1" dita-ot:x="1" dita-ot:y="2">Chrysanthemum</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:5;33:36" colname="col2" dita-ot:x="2" dita-ot:y="2">perennial</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:6;34:36" colname="col3" dita-ot:x="3" dita-ot:y="2">well drained</entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="row:3;36:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:7;37:36" colname="col1" dita-ot:x="1" dita-ot:y="3">Gardenia</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:8;38:36" colname="col2" dita-ot:x="2" dita-ot:y="3">perennial</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:9;39:36" colname="col3" dita-ot:x="3" dita-ot:y="3">acidic</entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="row:4;41:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:10;42:36" colname="col1" dita-ot:x="1" dita-ot:y="4">Gerbera</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:11;43:36" colname="col2" dita-ot:x="2" dita-ot:y="4">annual</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:12;44:36" colname="col3" dita-ot:x="3" dita-ot:y="4">sandy, well-drained</entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="row:5;46:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:13;47:36" colname="col1" dita-ot:x="1" dita-ot:y="5">Iris</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:14;48:36" colname="col2" dita-ot:x="2" dita-ot:y="5">perennial</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:15;49:36" colname="col3" dita-ot:x="3" dita-ot:y="5">slightly acidic</entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="row:6;51:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:16;52:36" colname="col1" dita-ot:x="1" dita-ot:y="6">Lilac</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:17;53:36" colname="col2" dita-ot:x="2" dita-ot:y="6">perennial</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:18;54:36" colname="col3" dita-ot:x="3" dita-ot:y="6">alkaline</entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="row:7;56:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:19;57:36" colname="col1" dita-ot:x="1" dita-ot:y="7">Salvia</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:20;58:36" colname="col2" dita-ot:x="2" dita-ot:y="7">perennial</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:21;59:36" colname="col3" dita-ot:x="3" dita-ot:y="7">average</entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="row:8;61:30">
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:22;62:36" colname="col1" dita-ot:x="1" dita-ot:y="8">Snowdrop</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:23;63:36" colname="col2" dita-ot:x="2" dita-ot:y="8">perennial</entry>
+                            <entry class="- topic/entry " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="entry:24;64:36" colname="col3" dita-ot:x="3" dita-ot:y="8">humus-rich (rich in <mathml class="+ topic/foreign mathml-d/mathml " xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/topics/care.dita" xtrc="mathml:1;64:64">
+                                    <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                                        <m:mi>C</m:mi>
+                                        <m:msub>
+                                            <m:mi>O</m:mi>
+                                            <m:mn>2</m:mn>
+                                        </m:msub>
+                                    </m:math>
+                                </mathml>)</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:2;12:37" xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/flowers.ditamap"><linkpool class="- topic/linkpool " xtrc="topicref:2;12:37" xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/flowers.ditamap"><link class="- topic/link " format="dita" href="../tasks/pruning.dita" mapclass="- map/topicref " role="child" scope="local" type="task" xtrc="topicref:3;13:42" xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/flowers.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Pruning</linktext></link><link class="- topic/link " format="dita" href="../tasks/gardenPreparation.dita" mapclass="- map/topicref " role="child" scope="local" type="task" xtrc="topicref:4;14:52" xtrf="file:/D:/workspaceSorin/eXml/samples/dita/flowers/flowers.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Garden Preparation</linktext></link></linkpool></linkpool></related-links></topic>
